@@ -1,6 +1,6 @@
 ============================
    STUDENT PRACTICE TRACKER
-============================
+===========================
 
 Enter Student Name:
 Rahul
